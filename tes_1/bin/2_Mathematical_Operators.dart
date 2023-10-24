@@ -49,4 +49,8 @@ void main(List<String> arguments) {
 // number = number * 10;
 // number += 10;
 // print(number);
+// contoh 4
+// double number;
+// number = 5 + 2;
+// print(number);
 }
